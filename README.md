@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarryM808
 - 👀 I’m interested in quantum computing, learning python and math in general.
-- 🌱 I’m currently learning quantum computing using qiskit.
+- 🌱 I’m currently learning quantum computing using qiskit and developing a python program to generate prime numbers.
 - 💞️ I’m looking to collaborate on future projects tbd.
 - 📫 How to reach me: hlmcintoshjr@gmail.com
 
